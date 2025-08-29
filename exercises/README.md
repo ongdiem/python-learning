@@ -1,0 +1,1 @@
+Thư mục này chứa các bài tập Python từ cơ bản đến nâng cao.
