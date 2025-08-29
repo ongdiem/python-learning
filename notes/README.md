@@ -1,0 +1,1 @@
+Thư mục này chứa các ghi chú lý thuyết về Python.
